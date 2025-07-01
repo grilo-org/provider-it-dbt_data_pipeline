@@ -18,7 +18,7 @@ O objetivo deste projeto é criar um pipeline de dados ponta a ponta a partir de
 Na pasta ```dags/include/datasets/``` você encontrará 3 arquivos: o ```online_retail.csv``` é o arquivo original baixado do Kaggle e o ```country.csv``` foi gerado usando uma tabela do BigQuery. São todos os dados necessários para este projeto.
 
 ---------
-## To run this project you must
+## Para executar o Projeto:
 
 ### Instalação Docker
 [Install Docker for your OS](https://docs.docker.com/desktop/)
