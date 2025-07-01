@@ -31,7 +31,7 @@ Open the code editor terminal:
 ```bash
 astro dev init
 ```
-Atenção ao pergunta apresentada: It will ask: ```You are not in an empty directory. Are you sure you want to initialize a project? (y/n)```
+Atenção a pergunta apresentada: It will ask: ```You are not in an empty directory. Are you sure you want to initialize a project? (y/n)```
 Type ```y``` and the project will be reinitialized.
 
 
