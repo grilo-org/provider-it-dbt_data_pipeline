@@ -26,16 +26,16 @@ Na pasta ```dags/include/datasets/``` você encontrará 3 arquivos: o ```online_
 ### Instalação Astro CLI
 [Install Astro CLI for your OS](https://www.astronomer.io/docs/astro/cli/install-cli)
 
-### Reinicializar o Airflow project
+### Reinicializar o Airflow
 Open the code editor terminal:
 ```bash
 astro dev init
 ```
-It will ask: ```You are not in an empty directory. Are you sure you want to initialize a project? (y/n)```
+Atenção ao pergunta apresentada: It will ask: ```You are not in an empty directory. Are you sure you want to initialize a project? (y/n)```
 Type ```y``` and the project will be reinitialized.
 
 
-### Build the project
+### Criando o Projeto com Astro
 In the code editor terminal, type:
 
 ```bash
