@@ -1,0 +1,7 @@
+name: 'mart'
+
+profile: 'mart'
+
+models:
+  mart:
+    materialized: table
